@@ -1,0 +1,7 @@
+"variable","type","unit","description","methodology"
+"plant_species","character","NA","Plant species","Scientific name of plant species of which the traits were measured."
+"fruit_diameter","numeric","[mm]","Fruit diameter","We measured the maximal diameter of fruits using sliding callipers (precision of 0.01 mm)."
+"crop_mass","numeric","[g per plant individual]","Crop mass per plant individual","We calculated crop mass by multiplying the mean fruit mass by the mean number of fruits per individual."
+"plant_height","numeric","[m]","Plant height","We measured plant height for each species on the study sites using a laser range finder (precision 1 m)."
+"number_of_fruits","numeric","[fruits per plant invidual]","Number of fruits per plant individual","We estimated the total number of ripe fruits per plant individual on the study sites. On plants with very large crop sizes, we counted the number of fruits for representative branches and used these to estimate the crop size of the whole plant."
+"fruit_mass","numeric","[g per fruit]","Fruit mass","We measured the mean weight of fruits using a digital scale (precision of 0.01 g)."

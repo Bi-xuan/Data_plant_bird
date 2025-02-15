@@ -1,0 +1,7 @@
+"variable","type","unit","description","methodology"
+"animal_species","character","NA","Animal species","Scientific name of animal species of which the traits were measured."
+"bill_length","numeric","[mm]","Bill length","We measured bill length as the distance from the commissural point of the upper and lower bill to the tip of the closed bill using sliding callipers (precision 0.01 mm) on museum specimens."
+"body_mass","numeric","[g]","Body mass","We extracted information about body mass from Dunning [CRC handbook of avian body masses (CRC Press, 2008)]."
+"kipps_index","numeric","[mm/mm]","Kipp's index","We calculated Kipp’s index as the ratio of Kipp’s distance and wing length."
+"kipps_distance","numeric","[mm]","Kipp's distance","We measured Kipp’s distance [distance between tip of the first secondary and tip of the longest primary of the folded wing] using sliding callipers (precision 0.01 mm) on museum specimens."
+"wing_length","numeric","[mm]","Wing length","We measured wing length using sliding callipers (precision 0.01 mm) on museum specimens."

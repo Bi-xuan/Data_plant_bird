@@ -1,0 +1,8 @@
+"variable","type","unit","description","methodology"
+"animal_species","character","NA","Animal species","Scientific name of animal species of which the traits were measured."
+"proboscis_length","numeric","[mm]","Proboscis length","We measured proboscis length (Hymenoptera: length of glossa; Diptera: length of labellum) of collected specimens using a binocular microscope with a calibrated ocular micrometre (precision 0.01 mm)."
+"head_width","numeric","[mm]","Head width","We measured head width of collected specimens using a binocular microscope with a calibrated ocular micrometre (precision 0.01 mm)."
+"forewing_index","numeric","[mm/mm]","Forewing index","We calculated the Forewing index as the ratio of forewing length and body length."
+"forewing_length","numeric","[mm]","Forewing length","We measured forewing length of collected specimens using a binocular microscope with a calibrated ocular micrometre (precision 0.01 mm)."
+"body_length","numeric","[mm]","Body length","We measured body length of collected specimens using a binocular microscope with a calibrated ocular micrometre (precision 0.01 mm)."
+"itd","numeric","[mm]","Intertegular distance","We measured intertegular distance of collected specimens using a binocular microscope with a calibrated ocular micrometre (precision 0.01 mm)."

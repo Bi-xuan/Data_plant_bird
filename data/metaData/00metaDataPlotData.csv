@@ -1,0 +1,8 @@
+"variable","type","unit","description","methodology"
+"plot","character","NA","Plot ID","Unique identification code for each study site."
+"habitat","character","NA","Habitat type","Code for each of the twelve habitat types included in the study."
+"habitat_description","character","NA","Description of habitat type","Short characterization of each of the twelve habitat types."
+"lu","factor","NA","Land use","Land use is represented by a factor with two levels (undisturbed = 'near natural habitats' and disturbed = 'anthropogenically disturbed habitats')"
+"elev","numeric","[m above sea level]","Elevation","Elevation of the study sites based on a digital elevation model."
+"map","numeric","[mm per year]","Mean annual precipitation","All study sites were equipped with temperature sensors that were installed ~2 m above the ground. Temperature sensors measured temperatures in 5 min intervals for a time period of ~2 years. We calculated the mean annual temperature as the average of all measurements per study site."
+"mat","numeric","[°C]","Mean annual temperature","Mean annual precipitation was interpolated across the study area using a co-kriging approach based on a 15-year data set from a network of about 70 rain gauges on Mt. Kilimanjaro."

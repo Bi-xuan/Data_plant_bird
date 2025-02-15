@@ -1,0 +1,5 @@
+"variable","type","unit","description","methodology"
+"plant_species","character","NA","Plant species","Scientific name of plant species of which the traits were measured."
+"corolla_depth","numeric","[mm]","Corolla depth","We measured corolla depth using sliding callipers (precision 0.01 mm) on herbarium specimens."
+"number_of_flowers","numeric","[flowers per plant invidual]","Number of flowers per plant invidual","We estimated the total number of flowers per plant individual on the study sites. On plants with very large flower availability, we counted the number of flowers for representative branches and used these to estimate the number of flowers of the whole plant."
+"plant_height","numeric","[m]","Plant height","We measured plant height for each species on the study sites using a laser range finder (precision 1 m)."

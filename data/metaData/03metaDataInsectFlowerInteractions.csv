@@ -1,0 +1,8 @@
+"variable","type","unit","description","methodology"
+"plant_species","character","NA","Plant species","Scientific name of plant species on which the interaction(s) were recorded."
+"animal_species","character","NA","Animal species","Scientific name of animal species that was recorded on the plant species."
+"plot","character","NA","Plot ID","Unique identification code for each study site."
+"date","character","NA","Date","Date on which observations have been started (format: year-month-day)."
+"type","character","NA","Mutualism type","Type of mutualism (bird-fruit, bird-flower or insect flower mutualism)."
+"plot_date_type","character","NA","Unique identification code based on plot, date and mutualism type","Unique identification code for each network that contains information about plot ID, date of sampling and the type of mutualism (separated by underscores)."
+"frequency","numeric","[interactions per 4 hours]","Interaction frequency","On each study site, we established one plot of 100 × 100 m2 size and (if possible) sampled each site several times. During each sampling round, we conducted a four-hour transect walk. During each transect walk, we moved slowly through the vegetation of each study site and recorded each interaction in which an insect touched the reproductive part of a plant species. Thus, we assumed that all flower-visiting insects contribute to pollination."
